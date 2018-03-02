@@ -2,12 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## []
+## [0.1.1]
 
-#### fixed
+#### removed
 
 -   Update README.md
-    Here we go!
+    Völlig sinnloser Text
 
 
 
